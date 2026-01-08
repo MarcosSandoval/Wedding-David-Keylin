@@ -14,7 +14,7 @@ const EnvelopeComponent: React.FC = () => {
   const handleClick = () => {
     setIsMoved(!isMoved);
     if (audioRef.current) {
-      audioRef.current.play();
+     // audioRef.current.play();
       setIsPlaying(true);
       document.body.style.overflowY = '';
     }

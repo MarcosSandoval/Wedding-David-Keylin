@@ -10,7 +10,7 @@ const RegressiveCount = () => {
     const [numberMins, setNumberMins] = useState(0)
     const [numberSecs, setNumberSecs] = useState(0)
 
-    let weddingDate = moment("2024-10-19 13:00:00", "YYYY-MM-DD HH:mm:ss");
+    let weddingDate = moment("2026-03-21 14:00:00", "YYYY-MM-DD HH:mm:ss");
 
     useEffect(() => {
         //Implementing the setInterval method
@@ -36,7 +36,7 @@ const RegressiveCount = () => {
             </Row>
             <Row></Row>
             <Row >
-                <h1 className="center wedding-font-sm" style={{paddingTop: "5%"}}>Sabado 19 de Octubre</h1>
+                <h1 className="center wedding-font-sm" style={{paddingTop: "5%"}}>Sabado 21 de Marzo</h1>
             </Row>
             <Row className="center-vertical-content" style={{paddingBottom: "10%"}}>
                 <Col xs={3} className="square">

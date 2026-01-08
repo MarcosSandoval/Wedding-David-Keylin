@@ -8,7 +8,7 @@ const JoinUsComponent = () => {
         <Container fluid className="background-image-join-us" style={{ backgroundColor: "white", marginTop: "10px", padding: "10vh" }}>
             <Row>
                 <Col>
-                    <img src={require("../../asseets/Logo_Green_PNG.png")} alt="Loading" className="resize-logo" />
+                    <img src={require("../../asseets/Logo.png")} alt="Loading" className="resize-logo" />
                 </Col>
             </Row>
             <Row>

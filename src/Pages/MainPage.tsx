@@ -22,7 +22,7 @@ const MainPage = () => {
             <EnvelopeComponent />
             <MainComponent />
             <JoinUsComponent />
-            <GoodWishesComponent />
+             {/*<GoodWishesComponent />*/}
             <RegressiveCount />
             <QuickMessageComponent {...{ message: "Contar con su presencia nos llenaría de alegría!", color: "#5A775E" }} />
             <ItineraryComponent />

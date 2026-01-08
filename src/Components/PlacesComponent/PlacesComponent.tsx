@@ -4,8 +4,8 @@ import "../../Sources/CommonStyleSheet.css"
 import { Button } from 'react-bootstrap';
 import UpperDecorator from '../../asseets/UpperCreeperDecorator.png';
 import DownDecorator from '../../asseets/DownCreeperDecorator.png';
-import BasilicaLosAngeles from '../../asseets/BasilicaLosAngeles.jpg';
-import HaciendaPinares from '../../asseets/HaciendaPinares.jpg';
+import IglesiaMariaAuxiliadora from '../../asseets/IglesiaMariaAuxiliadora.jpg';
+import SalaDeEventosNila from '../../asseets/SalaDeEventosNila.jpeg';
 
 const PlacesComponent = () => {
 
@@ -17,32 +17,32 @@ const PlacesComponent = () => {
             </Row>
             <Row>
                 <div className="col-sm-12 col-md-6">
-                    <Row><img src={BasilicaLosAngeles} alt="icon" className="resize-location-picture" style={{paddingTop: "20px"}}/></Row>
-                    <Row><h1 className="wedding-font-xsm blue-green">Lugar: Basilica de Los Ángeles</h1></Row>
-                    <Row><h1 className="wedding-font-xsm blue-green">Dirección: Avenida 1 del Comercio, Cartago, Costa Rica</h1></Row>
-                    <Row><h1 className="wedding-font-xsm blue-green">Hora: 1:30PM</h1></Row>
+                    <Row><img src={IglesiaMariaAuxiliadora} alt="icon" className="resize-location-picture" style={{paddingTop: "20px"}}/></Row>
+                    <Row><h1 className="wedding-font-xsm blue-green">Lugar: Parroquia Maria Auxiliadora</h1></Row>
+                    <Row><h1 className="wedding-font-xsm blue-green">Dirección: Avenida Central, Cartago, Costa Rica</h1></Row>
+                    <Row><h1 className="wedding-font-xsm blue-green">Hora: 2:00PM</h1></Row>
                     <Row><div className="d-flex justify-content-center"> 
                         <Button 
                             size="lg"  
                             style={{backgroundColor: "rgb(90, 119, 94)", borderColor: "rgb(90, 119, 94)"}} 
                             className="wedding-font-xsm location-button d-flex justify-content-center" 
-                            onClick={() => {handleOpenMaps("https://maps.app.goo.gl/hsmdyphA4BjvZcXy8")}}>
+                            onClick={() => {handleOpenMaps("https://maps.app.goo.gl/QvXBUSfxcDN3Pgn6A")}}>
                             Ver Ubicación
                         </Button>
                     </div></Row>
                 </div>
 
                 <div className="col-sm-12 col-md-6">
-                <Row><img src={HaciendaPinares} alt="icon" className="resize-location-picture" style={{paddingTop: "20px"}}/></Row>
-                <Row><h1 className="wedding-font-xsm blue-green">Lugar: Hacienda Pinares</h1></Row>
-                <Row><h1 className="wedding-font-xsm blue-green">Dirección: San Rafael de Tres Ríos , Tres Ríos, Costa Rica</h1></Row>
+                <Row><img src={SalaDeEventosNila} alt="icon" className="resize-location-picture" style={{paddingTop: "20px"}}/></Row>
+                <Row><h1 className="wedding-font-xsm blue-green">Lugar: Sala de Eventos Nila</h1></Row>
+                <Row><h1 className="wedding-font-xsm blue-green">Dirección: Ruta Nacional Primaria 10, Cartago, Costa Rica</h1></Row>
                 <Row><h1 className="wedding-font-xsm blue-green">Hora: 4:00PM</h1></Row>
                 <Row><div className="d-flex justify-content-center">
                         <Button 
                             style={{backgroundColor: "rgb(90, 119, 94)", borderColor: "rgb(90, 119, 94)"}} 
                             size="lg" 
                             className="wedding-font-xsm location-button center-items" 
-                            onClick={() => {handleOpenMaps("https://maps.app.goo.gl/t4GLDHmYmE1szxqW9")}}>
+                            onClick={() => {handleOpenMaps("https://maps.app.goo.gl/nh91BCt6nw9FkwDE6")}}>
                                 Ver Ubicación
                         </Button>
                     </div></Row>

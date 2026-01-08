@@ -22,7 +22,7 @@ const ItineraryComponent = () => {
                     <Col>
                         <img src={church} alt="icon" className="main-icon" />
                         <h1 className="wedding-font-sm" style={{ marginBottom: "0px" }}>Iglesia</h1>
-                        <h1 style={{ paddingTop: "2px" }} className="wedding-font-xsm">1:30PM</h1>
+                        <h1 style={{ paddingTop: "2px" }} className="wedding-font-xsm">2:00PM</h1>
                     </Col>
                 ))}
                 {((currentIndex === 1) && (
