@@ -11,7 +11,7 @@ const MainComponent = () => {
                 </Col>
             </Row>
             <Row>
-                <h3 className="center wedding-font-sm">21.03.26</h3>
+                <h3 className="center wedding-font-sm">21.03.2026</h3>
             </Row>
             
         </Container>

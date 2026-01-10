@@ -13,12 +13,12 @@ const JoinUsComponent = () => {
             </Row>
             <Row>
                 <Col>
-                    <h3 className="center wedding-paragraph-font slide-in-right" style={{ paddingTop: "10vh" }}>"Nuestra boda esta por llegar"</h3>
+                    <h3 className="center wedding-paragraph-font slide-in-right" style={{ paddingTop: "10vh" }}>"Muy pronto uniremos nuestras vidas"</h3>
                 </Col>
             </Row>
             <Row>
                 <Col>
-                    <h3 className="center wedding-paragraph-font slide-in-left" style={{ paddingTop: "5vh" }}>Hemos decidido dar el siguiente paso en nuestra historia y queremos que formes parte de ella.</h3>
+                    <h3 className="center wedding-paragraph-font slide-in-left" style={{ paddingTop: "5vh" }}>Con ilusión y amor comenzamos un nuevo capítulo, y deseamos que nos acompañen en este día tan especial</h3>
                 </Col>
             </Row>
         </Container>

@@ -10,17 +10,17 @@ import SalaDeEventosNila from '../../asseets/SalaDeEventosNila.jpeg';
 const PlacesComponent = () => {
 
     return (
-        <Container fluid className="d-flex flex-column">
-            <Row><img src={UpperDecorator} alt="icon" className="rezise-decorator"/></Row>
+        <Container fluid className="background-image-itinerary d-flex flex-column">
             <Row>
-                <Col><h1 className="wedding-font blue-green center-text">Ubicaciones</h1></Col>
+                <Col><h1 className="wedding-font-xsm blue-green">¡La alegría se multiplica cuando se comparte, por eso nos encantaría que nos acompañen!</h1></Col>
             </Row>
             <Row>
                 <div className="col-sm-12 col-md-6">
                     <Row><img src={IglesiaMariaAuxiliadora} alt="icon" className="resize-location-picture" style={{paddingTop: "20px"}}/></Row>
-                    <Row><h1 className="wedding-font-xsm blue-green">Lugar: Parroquia Maria Auxiliadora</h1></Row>
-                    <Row><h1 className="wedding-font-xsm blue-green">Dirección: Avenida Central, Cartago, Costa Rica</h1></Row>
+                    
+                    <Row><h1 className="wedding-font-xsm blue-green">Ceremonia religiosa</h1></Row>
                     <Row><h1 className="wedding-font-xsm blue-green">Hora: 2:00PM</h1></Row>
+                    <Row><h1 className="wedding-font-xsm blue-green">Lugar: Parroquia Maria Auxiliadora</h1></Row>
                     <Row><div className="d-flex justify-content-center"> 
                         <Button 
                             size="lg"  
@@ -34,9 +34,9 @@ const PlacesComponent = () => {
 
                 <div className="col-sm-12 col-md-6">
                 <Row><img src={SalaDeEventosNila} alt="icon" className="resize-location-picture" style={{paddingTop: "20px"}}/></Row>
-                <Row><h1 className="wedding-font-xsm blue-green">Lugar: Sala de Eventos Nila</h1></Row>
-                <Row><h1 className="wedding-font-xsm blue-green">Dirección: Ruta Nacional Primaria 10, Cartago, Costa Rica</h1></Row>
+                <Row><h1 className="wedding-font-xsm blue-green">Celebración</h1></Row>
                 <Row><h1 className="wedding-font-xsm blue-green">Hora: 4:00PM</h1></Row>
+                <Row><h1 className="wedding-font-xsm blue-green">Dirección: Sala de Eventos Nila, Caballo Blanco</h1></Row>
                 <Row><div className="d-flex justify-content-center">
                         <Button 
                             style={{backgroundColor: "rgb(90, 119, 94)", borderColor: "rgb(90, 119, 94)"}} 

@@ -17,16 +17,15 @@ const InformationComponent = () => {
                     <Row><div className="col-12"><div className="dress-code-icon-container"><img src={dressCodeIcon} alt={""} className="dress-code-icon" /></div></div></Row>
                     <Row>
                         <h1 className="wedding-font-xsm blue-green">Para asistir al evento debe portar un código de vestimenta: </h1>
-                        <h1 className="wedding-font-sm blue-green bold">Formal de Gala</h1>
+                        <h1 className="wedding-font-sm blue-green bold">Formal</h1>
                     </Row>
                     <Row style={{ paddingTop: "7%", paddingBottom: "7%" }}>
-                        <div className="col-1"></div>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "#009d71" }}></div></div>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "#026842" }}></div></div>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }} ><div className="circle" style={{ backgroundColor: "#003817" }}></div></div>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "black" }}></div></div>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle add-border" style={{ backgroundColor: "white" }}></div></div>
-                        <div className="col-1"></div>
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "#1E1E1E" }}></div></div>
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "#0f4b63" }}></div></div>
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }} ><div className="circle" style={{ backgroundColor: "#D31220" }}></div></div>
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "#E2A79B" }}></div></div>
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "#B8C4C3" }}></div></div>
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle add-border" style={{ backgroundColor: "#f5f5f5" }}></div></div>
                     </Row>
                     <Row>
                         <h1 className="wedding-font-xsm" style={{ color: "red", paddingBottom: "0%"  }}>No se permite la anterior paleta de colores dentro de la vestimenta de los invitados.</h1>
@@ -45,8 +44,8 @@ const InformationComponent = () => {
                                 <div className="col-4"><div className="item-icon-container"><img src={sinpeIcon} alt={""} className="item-icon" /></div></div>
                                 <div className="col-8">
                                     <ul className="item-container">
-                                        <li className="wedding-font-xsm">8338-4244</li>
-                                        <li className="wedding-font-xsm">8647-9129</li>
+                                        <li className="wedding-font-xsm">8640-8516</li>
+                                        <li className="wedding-font-xsm">8669-9309</li>
                                     </ul>
                                 </div>
                             </Row>
@@ -57,7 +56,7 @@ const InformationComponent = () => {
                                 <div className="col-8"><h1 className="wedding-font-xsm item-container" style={{ textAlign: 'left' }}>Lluvia de sobres(efectivo)</h1></div>
                             </Row>
                         </div>
-                        <div className="col-12">
+                        {/* <div className="col-12">
                             <Row>
                                 <div className="col-4"><div className="item-icon-container"><img src={transferIcon} alt={""} className="item-icon" /></div></div>
                                 <div className="col-8">
@@ -67,7 +66,7 @@ const InformationComponent = () => {
                                     </ul>
                                 </div>
                             </Row>
-                        </div>
+                        </div> */}
                     </Row>
                 </div>
             </Row>

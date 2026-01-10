@@ -24,7 +24,7 @@ const DropDownFamiliesComponent = () => {
                 <Col><h1 className="wedding-font center-text">Lista de invitados</h1></Col>
             </Row>
             <Row>
-                <Col><h3 className="wedding-font-xsm center-text">Su presencia en nuestra boda significa el mundo para nosotros. A continuación podra encontrar las personas invitadas a nuestro gran día.</h3></Col>
+                <Col><h3 className="wedding-font-xsm center-text">Su compañía hace de este día algo aún más especial. A continuación, encontrará el detalle de las personas invitadas</h3></Col>
             </Row>
             <Row>
                 <Col>

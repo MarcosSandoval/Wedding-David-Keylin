@@ -12,7 +12,7 @@ const ConfirmAssistanceComponent = () => {
                     <Col><h1 className="wedding-font-sm center-text blue-green">Confirmar asistencia</h1></Col>
                 </Row>
                 <Row>
-                    <Col><h3 className="wedding-font-xsm center-text lateral-padding blue-green">Les solicitamos que si desea asistir al evento confirme su asistencia antes del "01 de Octubre" al número</h3></Col>
+                    <Col><h3 className="wedding-font-xsm center-text lateral-padding blue-green">Si desean acompañarnos, agradecemos confirmar su asistencia antes del “26 de febrero”</h3></Col>
                 </Row>
                 <Row>
                     <Col><h1 className="wedding-font-sm center-text lateral-padding blue-green">8664-4596</h1></Col>
