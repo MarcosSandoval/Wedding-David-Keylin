@@ -1,277 +1,174 @@
 {
-  "Andrey Segura Quesada": [
-    "Andrey Segura Quesada",
-    "Mattew Segura Rojas"
+  "Familia Tencio Godínez": [
+    "Carlos Tencio Fernández",
+    "Denníse Godínez Picado",
+    "Leiner Tencio Godínez"
   ],
-  "Ana Yancy Zúñiga Arguedas": [
-    "Ana Yancy Zúñiga Arguedas"
-  ],
-  "Aracelly Fernández Chacon": [
-    "Aracelly Fernández Chacon"
-  ],
-  "Carmen Moya Loaiza": [
-    "Carmen Moya Loaiza"
-  ],
-  "Carolina Núñez Mora": [
-    "Carolina Núñez Mora"
-  ],
-  "Dayanna Calderón Vargas": [
-    "Dayanna Calderón Vargas"
-  ],
-  "Dafne Solano Rodríguez e hijas": [
-    "Dafne Solano Rodríguez",
-    "Tamara Cortes Solano",
-    "Samantha Solano Rodríguez"
-  ],
-  "Ericka Meneses C": [
-    "Ericka Meneses C"
-  ],
-  "Felipe Navarro Cerdas": [
-    "Felipe Navarro Cerdas"
-  ],
-  "Guadalupe Montoya Flores": [
-    "Guadalupe Montoya Flores"
-  ],
-  "Hellen Castillo Soto": [
-    "Hellen Castillo Soto"
-  ],
-  "Ileana Segura Barrios e hijas": [
-    "Ileana Segura Barrios",
-    "Ariana Rodríguez Segura",
-    "Arantxa Rodríguez Segura"
-  ],
-  "Familia Arley Berrocal": [
-    "Martha Berrocal Segura",
-    "Joaquin Arley Leiva",
-    "Bryan Arley Berrocal"
-  ],
-  "Familia Berrocal Bolaños": [
-    "Michael Berrocal Segura",
-    "Sirley Bolaños Alvarado",
-    "Melanie Berrocal Bolaños",
-    "Kendall Bonilla Gonzalez",
-    "Tiffanny Berrocal Bolaños",
-    "Kendall Berrocal Bolaños",
-    "Jorge Berrocal Bolaños",
-    "Rachell Berrocal Bolaños"
-  ],
-  "Familia Berrocal Sanabria": [
-    "Kimberly Berrocal Sanabria",
-    "Christopher Berrocal Sanabria",
-    "Roger Berrocal Sanabria"
-  ],
-  "Familia Carvajal Solano": [
-    "Jessica Solano Rodríguez",
-    "Francisco Carvajal"
-  ],
-  "Familia Cascante Rodríguez": [
-    "Alonso Chinchilla Cascante",
-    "Carolina Rodríguez Hernández",
-    "Jeshia Cascante Rodríguez"
-  ],
-  "Familia Calderón Leandro": [
-    "Daniela Leandro Gomez",
-    "Henry Calderón Cartín"
-  ],
-  "Familia Castro Mora": [
-    "Natalia Mora Segura",
-    "Roberto Castro Valenzuela"
-  ],
-  "Familia Corrales Segura": [
-    "Natalia Segura Barrios",
-    "Alonso Corrales Astúa",
-    "Paulina Corrales Segura"
-  ],
-  "Familia Cruz Córdoba": [
-    "Rafael Cruz Palma",
-    "Adela Cruz Córdoba",
-    "Bianka Cruz Córdoba",
-    "Karen Cruz Córdoba"
-  ],
-  "Familia Elizondo Segura": [
-    "Alexander Elizondo Vásquez",
-    "Dayana Segura Camacho"
-  ],
-  "Familia Estrada Fernández": [
-    "Fanny Fernández Sandoval",
-    "Brand Estrada Fernández",
-    "Nazareth Estrada Fernández",
-    "Celeste Estrada Fernández"
-  ],
-  "Familia Fernández Berrocal": [
-    "Carmen Berrocal Segura",
-    "Luis Fernández Sandoval",
-    "Estiven Fernández Berrocal"
-  ],
-  "Familia Fernández Morales": [
-    "Jhonny Fernández Sandoval",
-    "Magaly Morales Vázquez",
-    "Ismael Fernández Morales"
-  ],
-  "Familia Fernández Muñoz": [
-    "Hannia Muñoz",
-    "Genesis Fernández Muñoz",
-    "Doryam Herrera Sánchez",
-    "Brenda Fernández Muñoz",
-    "Kevin Brenes Fonseca",
-    "Valentina Brenes Fernández",
-    "Gabriel Fernández Muñoz",
-    "Fabian Herrera Fernández"
-  ],
-  "Familia Fernández Sandoval": [
-    "Carmen Sandoval Bogarin",
-    "Iván Fernández Sandoval"
-  ],
-  "Familia Gómez Cruz": [
-    "Elena Cruz Cordoba",
-    "Javier Gómez Madrigal"
-  ],
-  "Familia Hernández Solano": [
-    "Pamela Solano Rodríguez",
-    "Miguel Hernández Fernández",
-    "Fabricio Villareal Solano",
-    "Aitana Hernández Solano"
-  ],
-  "Familia Jara Solano": [
-    "Jose Francisco Jara Chacón",
-    "Maureen Solano Rodríguez",
-    "Esteban Jara Solano",
-    "Sulyn Jara Solano",
-    "Génesis Jara Solano",
-    "David Álvarez Esquivel",
-    "Angelo Solano Rodríguez"
-  ],
-  "Familia Murillo Quesada": [
-    "Hugo Murillo Moya",
-    "Cinthya Quesada"
-  ],
-  "Familia Pérez Segura": [
-    "Mario Pérez Gómez",
-    "Keilyn Segura Solano",
-    "Samuel Morera Segura"
-  ],
-  "Familia Ramírez Berrocal": [
-    "Silvia Berrocal Segura",
-    "Rafael Ramirez Araya",
-    "Angiolette Ramirez Berrocal",
-    "Isabella Mata Ramirez",
-    "Douglas Mora Castro"
-  ],
-  "Familia Sanabria Berrocal": [
-    "Rosa Berrocal Chávez",
-    "Sofia Sanabria Berrocal",
-    "Monserath Sanabria Berrocal"
+  "Familia Calderón Tencio": [
+    "Keyner Calderón Chaves",
+    "Wendy Tencio Godínez",
+    "Valeria Calderón Godínez",
+    "Isabella Calderón Godínez"
   ],
   "Familia Sandoval Calvo": [
-    "Marcos Sandoval Calvo",
+    "Manuel Sandoval Bogarin",
     "Clara Calvo Chacón",
-    "María Calvo Chacón"
+    "Victor Hugo Sandoval Calvo",
+    "Marcos Sandoval Calvo",
+    "Esteban Sandoval Calvo",
+    "Will Urbina"
   ],
-  "Familia Segura Granados": [
-    "Jason Segura Solano",
-    "Fabiola Granados Rodríguez",
-    "Gael Segura Granados"
+  "Familia Chacón Jiménez": [
+    "María Chacón Jiménez",
+    "Manuel Calvo Chacón",
+    "Rosibel Obando Quiros",
+    "Geovanny Calvo Chacón",
+    "Mauricio Monge Calvo"
   ],
-  "Familia Segura Salazar": [
-    "Jorge Segura Moya",
-    "Ana Lía Salazar Zarata"
+  "Familia Alvarado Tencio": [
+    "Alexander Carmona Valdelomar",
+    "Elizeth Tencio Godínez",
+    "María Ester Alvarado Godínez",
+    "Luis Adrián Alvarado Godínez",
+    "Orlando Valverde"
   ],
-  "Familia Segura Solano": [
-    "Lidiette Solano Rodríguez",
-    "Alfredo Segura Moya"
+  "Familia Godínez Badilla": [
+    "Wilberth Godínez Picado",
+    "Vilma Badilla Gamboa",
+    "Alejandro Godínez Picado"
   ],
-  "Familia Segura Garro": [
-    "Yuliana Segura Garro",
-    "Allan Segura Garro",
-    "Alenna Segura Garro"
+  "Familia Godínez Valderrama": [
+    "German Godínez Picado",
+    "Karol Valderrama Rojas",
+    "María Paola Godínez Valderrama",
+    "Danilo Godínez Picado"
   ],
-  "Familia Solano González": [
-    "Hermes Gabriel Solano Rodríguez",
-    "Carolina González Valverde",
-    "Mariana Solano González",
-    "Mathías Solano González"
+  "Familia Tencio Fonseca": [
+    "Mayela Tencio Fernández",
+    "Ligia Fonseca Tencio",
+    "Maripaz Fonseca Tencio",
+    "Cinthya Fonseca Tencio",
+    "Gerardo Somo"
   ],
-  "Familia Solano Guillén": [
-    "Donald Solano Rodríguez",
-    "Erika Guillén Serrano",
-    "Nazaret Solano Guillén",
-    "Isaac Solano Guillén",
-    "Cristhie Susana Solano Masís"
+  "Familia Calvo Redondo": [
+    "Jorge Calvo Chacón",
+    "Rosalía Redondo Quiros",
+    "Jorge Calvo Redondo",
+    "Karla Barrantes Gómez"
   ],
-  "Familia Solano Rodríguez": [
-    "Hermés Solano Meza",
-    "Maria Isabel Rodríguez Carmona"
+  "Familia Godínez Chacón": [
+    "Víctor Julio Godínez Picado",
+    "María Eugenia Chacón Vargas",
+    "Marilyn Godínez Chacón",
+    "Alejandro Piedra"
   ],
-  "Familia Solano Rodríguez(Dinnier)": [
-    "Dinnier Solano Rodríguez",
-    "Lady Rodríguez Guevara",
-    "Zamir Solano Brenes"
+  "Familia Cerdas Godínez": [
+    "Johnny Rivera Cerdas",
+    "Maureen Godínez Chacón",
+    "Fátima Rivera Godínez",
+    "Elena Rivera Godínez"
   ],
-  "Familia Soto Bonilla": [
-    "Claudio Soto Quirós",
-    "Rosa Bonilla Cháves"
+  "Familia Godínez Picado": [
+    "Esteban Godínez Chacón",
+    "Alejandra Picado",
+    "Daniel Godínez Picado"
   ],
-  "Familia Valenciano Campos": [
-    "Kenia Campos Benavides",
-    "Michael Valenciano Quesada"
+  "Familia Arroyo Godínez": [
+    "Mara Godínez Picado",
+    "Miley Arroyo Godínez"
   ],
-  "Familia Villalobos Mora": [
-    "Alejandra Mora Valverde",
-    "Josue Villalobos Orozco"
+  "Familia Calderón Murillo": [
+    "Esteban Calderón Chaves",
+    "Francinny Murillo Méndez",
+    "Mariam Calderón Murillo"
   ],
-  "Karen Fonseca Artavia": [
-    "Karen Fonseca Artavia"
+  "Familia Sandoval Bogarin": [
+    "Carmen Sandoval Bogarin",
+    "Fanny Fernández Sandoval"
   ],
-  "Luis Enrique Vazquez Villalobos": [
-    "Luis Enrique Vazquez Villalobos"
+  "Familia Calvo Aguilar": [
+    "José Calvo Montoya",
+    "Hellen Aguilar Solano",
+    "Pablo Calvo Aguilar",
+    "María Meléndez Madriz",
+    "Jazmín Quiros Gutiérrez"
   ],
-  "Mónica Cortés García": [
-    "Mónica Cortés García",
-    "Carlos David Vargas",
-    "Geonnathan Fernández"
+  "Estefany Calvo": [
+    "Estefany Calvo Zuñiga",
+    "Jonathan Boza Figueroa"
   ],
-  "Pareja Baldizon Pérez": [
-    "Lindsay Pérez Montoya",
-    "Kevin Baldizon Sánchez"
+  "Antonny Calvo": [
+    "Antonny Calvo Chacón",
+    "Wendy Campos Víquez"
   ],
-  "Pareja Barrantes Abarca": [
-    "Isabel Abarca Cervantes",
-    "Wagner Barrantes Mora"
+  "Jaime Calvo": [
+    "Jaime Calvo Chacón",
+    "Yosy Oviedo Solano"
   ],
-  "Pareja Barrantes Calero": [
-    "Sthephanie Barrantes Valverde",
-    "Fernanda Calero Salas"
+  "Francisco Calvo": [
+    "Francisco Calvo Chacón",
+    "Teresa Mata Vargas"
   ],
-  "Pareja Hidalgo Arroyo": [
-    "Sybil Hidalgo Azofeifa",
-    "Melissa Arroyo Godínez"
+  "Darío Brenes": [
+    "Darío Brenes",
+    "Karina Cerdas"
   ],
-  "Pareja Merenstein Trejos": [
-    "Nikole Trejos Castro",
-    "Yoel Merenstein Hoffman"
+  "Wendy Mendez": [
+    "Wendy Mendez Loría",
+    "Jose Quesada"
   ],
-  "Paula Redondo Romero": [
-    "Paula Redondo Romero"
+  "Fernanda Luna Navarro": [
+    "Fernanda Luna Navarro"
   ],
-  "Sergio Segura Sánchez": [
-    "Sergio Segura Sánchez",
-    "Fabiana Segura Granados"
+  "María Angela Godínez Picado": [
+    "María Angela Godínez Picado"
   ],
-  "Suzanne González Gómez": [
-    "Suzanne González Gómez"
+  "Isabel Chacón Chacón": [
+    "Isabel Chacón Chacón"
   ],
-  "Teresita Segura Cascante": [
-    "Teresita Segura Cascante"
+  "Lorena Tencio Fernández": [
+    "Lorena Tencio Fernández"
   ],
-  "Viviana Rojas": [
-    "Viviana Rojas",
-    "Jhonny Fernández Rojas"
+  "Dunnia Zuñiga Valverde": [
+    "Dunnia Zuñiga Valverde"
   ],
-  "Viria Quirós Quesada": [
-    "Viria Quirós Quesada"
+  "Milagro Redondo Calderón": [
+    "Milagro Redondo Calderón"
   ],
-  "Wendy Cordero Sánchez": [
-    "Wendy Cordero Sánchez",
-    "Andreé Velásquez"
+  "Linneth Salas Obando": [
+    "Linneth Salas Obando"
+  ],
+  "Mercedes Mora Fernández": [
+    "Mercedes Mora Fernández"
+  ],
+  "Juan Carlos Quirós": [
+    "Juan Carlos Quirós"
+  ],
+  "Cristian Cordero": [
+    "Cristian Cordero"
+  ],
+  "Vinicio Alvarado Gutierrez": [
+    "Vinicio Alvarado Gutierrez"
+  ],
+  "Tatiana Serrano Calderón": [
+    "Tatiana Serrano Calderón"
+  ],
+  "María Robles Chinchilla": [
+    "María Robles Chinchilla"
+  ],
+  "Edwin Bejarano Brenes": [
+    "Edwin Bejarano Brenes"
+  ],
+  "Brayan Cordero Redondo": [
+    "Brayan Cordero Redondo"
+  ],
+  "Alejandro Saborío Mata": [
+    "Alejandro Saborío Mata"
+  ],
+  "Steven Quesada Serrano": [
+    "Steven Quesada Serrano"
+  ],
+  "Didi Ruiz": [
+    "Didi Ruiz"
   ]
 }
