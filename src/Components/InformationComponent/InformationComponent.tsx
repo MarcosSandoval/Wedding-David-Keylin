@@ -13,7 +13,12 @@ const InformationComponent = () => {
         <Container fluid className="background-information d-flex flex-column content-container without-overflow">
             <Row>
                 <div className="col-sm-6">
-                    <Row><div className="col-12"><h1 className="wedding-font center-text blue-green without-stroke">Código de vestimenta</h1></div></Row>
+                    <Row><div className="col-12"><h3 className="wedding-font center-text blue-green without-stroke"style={{ fontSize: "1.6rem",
+                    fontFamily: "'Times New Roman', Times, serif",
+                    fontStyle: "italic",
+                    fontWeight: "normal",
+                    lineHeight: "1.6"
+                    }}>La ceremonia será de etiqueta formal. Para quienes no puedan asistir de manera formal, su presencia será igualmente bienvenida, y les invitamos a asistir lo más elegantes que puedan.</h3></div></Row>
                     <Row><div className="col-12"><div className="dress-code-icon-container"><img src={dressCodeIcon} alt={""} className="dress-code-icon" /></div></div></Row>
                     <Row>
                         <h1 className="wedding-font-xsm blue-green">Para asistir al evento debe portar un código de vestimenta: </h1>
