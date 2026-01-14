@@ -12,7 +12,7 @@ const PlacesComponent = () => {
     return (
         <Container fluid className="background-image-itinerary d-flex flex-column">
             <Row>
-                <Col><h1 className="wedding-font-xsm blue-green">¡La alegría se multiplica cuando se comparte, por eso nos encantaría que nos acompañen!</h1></Col>
+                <Col><h1 className="wedding-font-xsm blue-green"></h1></Col>
             </Row>
             <Row>
                 <div className="col-sm-12 col-md-6">

@@ -24,7 +24,7 @@ const MainPage = () => {
             <JoinUsComponent />
              {/*<GoodWishesComponent />*/}
             <RegressiveCount />
-            <QuickMessageComponent {...{ message: "Contar con su presencia nos llenaría de alegría!", color: "#5A775E" }} />
+            <QuickMessageComponent {...{ message: "¡La alegría se multiplica cuando se comparte, por eso nos encantaría que nos acompañen!", color: "#5A775E" }} />
             {/* <ItineraryComponent /> */}
             <PlacesComponent />
             <DropDownFamiliesComponent />
