@@ -1,6 +1,6 @@
 .background-image {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),90%,
-    rgba(255, 255, 255, 0.5)), url("../../asseets/backgroundMainComponent.JPG");
+    rgba(255, 255, 255, 0.5)), url("../../asseets/AlexisKey.jpg");
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -16,7 +16,7 @@
 @media (orientation: portrait) {
     .background-image {
         background-image: linear-gradient(rgba(0, 0, 0, 0.5), 90%,
-        rgba(255, 255, 255, 0.5)), url("../../asseets/backgroundMainComponent.JPG");
+        rgba(255, 255, 255, 0.5)), url("../../asseets/AlexisKey.jpg");
     }
 }
 
