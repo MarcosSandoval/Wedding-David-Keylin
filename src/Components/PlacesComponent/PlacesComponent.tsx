@@ -20,7 +20,7 @@ const PlacesComponent = () => {
                     
                     <Row><h1 className="wedding-font-xsm blue-green">Ceremonia religiosa</h1></Row>
                     <Row><h1 className="wedding-font-xsm blue-green">Hora: 2:00PM</h1></Row>
-                    <Row><h1 className="wedding-font-xsm blue-green">Lugar: Parroquia Maria Auxiliadora</h1></Row>
+                    <Row><h1 className="wedding-font-xsm blue-green">Lugar: Parroquia Maria Auxiliadora ,Cartago</h1></Row>
                     <Row><div className="d-flex justify-content-center"> 
                         <Button 
                             size="lg"  
@@ -36,7 +36,7 @@ const PlacesComponent = () => {
                 <Row><img src={SalaDeEventosNila} alt="icon" className="resize-location-picture" style={{paddingTop: "20px"}}/></Row>
                 <Row><h1 className="wedding-font-xsm blue-green">Celebración</h1></Row>
                 <Row><h1 className="wedding-font-xsm blue-green">Hora: 4:00PM</h1></Row>
-                <Row><h1 className="wedding-font-xsm blue-green">Dirección: Sala de Eventos Nila, Caballo Blanco</h1></Row>
+                <Row><h1 className="wedding-font-xsm blue-green">Lugar: Sala de Eventos Nila, Caballo Blanco</h1></Row>
                 <Row><div className="d-flex justify-content-center">
                         <Button 
                             style={{backgroundColor: "rgb(90, 119, 94)", borderColor: "rgb(90, 119, 94)"}} 
