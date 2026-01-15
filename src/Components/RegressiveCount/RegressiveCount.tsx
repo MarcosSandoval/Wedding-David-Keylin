@@ -32,7 +32,7 @@ const RegressiveCount = () => {
     return (
         <Container fluid className="background-image-regressive-count" style={{paddingLeft: "5%", paddingRight: "5%"}}>
             <Row>
-                <h1 className="center-items wedding-font" style={{ paddingRight: "5px", paddingLeft: "5px", fontWeight: "bold", fontStyle: "normal" }}>Cada día estamos más cerca de nuestro “sí para siempre”</h1>
+                <h1 className="center-items wedding-font" style={{ paddingRight: "5px", paddingLeft: "5px", fontWeight: "bold", fontStyle: "normal",fontSize:"2rem" }}>Cada día estamos más cerca de nuestro “sí para siempre”</h1>
             </Row>
             <Row></Row>
             <Row >
