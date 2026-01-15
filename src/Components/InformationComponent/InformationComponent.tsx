@@ -16,9 +16,9 @@ const InformationComponent = () => {
                     <Row><div className="col-12"><h3 className="wedding-font center-text blue-green without-stroke"style={{ fontSize: "1.6rem",
                     fontFamily: "'Times New Roman', Times, serif",
                     fontStyle: "italic",
-                    fontWeight: "normal",
+                    fontWeight: "normal",           
                     lineHeight: "1.6"
-                    }}>Para asistir al evento debe portar un código de vestimenta.</h3></div></Row>
+                    }}>Codigo de Vestimenta.</h3></div></Row>
                     <Row><div className="col-12"><div className="dress-code-icon-container"><img src={dressCodeIcon} alt={""} className="dress-code-icon" /></div></div></Row>
                     <Row>
                         <h1 className="wedding-font-xsm blue-green">Para asistir al evento debe portar un código de vestimenta: </h1>
