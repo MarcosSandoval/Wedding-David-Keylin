@@ -18,7 +18,7 @@ const InformationComponent = () => {
                     fontStyle: "italic",
                     fontWeight: "normal",
                     lineHeight: "1.6"
-                    }}>La ceremonia será de etiqueta formal. Para quienes no puedan asistir de manera formal, su presencia será igualmente bienvenida, y les invitamos a asistir lo más elegantes que puedan.</h3></div></Row>
+                    }}>Para asistir al evento debe portar un código de vestimenta.</h3></div></Row>
                     <Row><div className="col-12"><div className="dress-code-icon-container"><img src={dressCodeIcon} alt={""} className="dress-code-icon" /></div></div></Row>
                     <Row>
                         <h1 className="wedding-font-xsm blue-green">Para asistir al evento debe portar un código de vestimenta: </h1>
