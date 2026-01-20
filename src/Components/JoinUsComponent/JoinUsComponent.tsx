@@ -13,7 +13,7 @@ const JoinUsComponent = () => {
             </Row>
             <Row>
                 <Col>
-                    <h3 className="center wedding-paragraph-font slide-in-right" style={{ paddingTop: "10vh" }}>"Muy pronto uniremos nuestras vidas"</h3>
+                    <h3 className="center wedding-paragraph-font slide-in-right" style={{ paddingTop: "10vh", color: "#4254AB" }}>"Muy pronto uniremos nuestras vidas"</h3>
                 </Col>
             </Row>
             <Row>
