@@ -20,7 +20,7 @@
     margin: 0px;
     max-width: 400px;
     transition: transform 2s ease-in-out;
-    background-image:  url("../../asseets/backgroundEnvelopeBottom.png");
+    background-image:  url("../../asseets/Logo_Envelope.png");
     background-size: cover; /* Ajusta el tamaño de la imagen */
     background-position: center; /* Centra la imagen */
     background-repeat: no-repeat;
