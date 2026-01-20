@@ -6,7 +6,7 @@
 
 .custom-dropdown .dropdown-toggle {
     background-color: white; /* Color de fondo del botón */
-    color: #5A775E; /* Color de letra del botón */
+    color: #4254AB; /* Color de letra del botón */
     border-color: white;
   }
   
@@ -16,11 +16,11 @@
   }
   
   .custom-dropdown .dropdown-item {
-    color: #5A775E; /* Color de letra de los elementos del menú */
+    color: #4254AB; /* Color de letra de los elementos del menú */
   }
   
   .custom-dropdown .dropdown-item:hover {
-    background-color: #5A775E; /* Color de fondo de los elementos del menú al pasar el ratón */
+    background-color: #4254AB; /* Color de fondo de los elementos del menú al pasar el ratón */
     color: white;/* Color de letra de los elementos del menú al pasar el ratón */
   }
 

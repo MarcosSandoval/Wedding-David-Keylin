@@ -95,10 +95,10 @@ const InformationComponent = () => {
                 </div>
 
                 <div className="col-sm-6" style={{ backgroundColor: "rgb(226, 167, 155)" }}>
-                    <Row><h1 className="wedding-font center-text without-stroke" style={{ color: "#5A775E" }}>Mesa de Regalos</h1></Row>
+                    <Row><h1 className="wedding-font center-text without-stroke" style={{ color: "#4254AB" }}>Mesa de Regalos</h1></Row>
                     <Row><div className="dress-code-icon-container"><img src={giftIcon} alt={""} className="dress-code-icon" /></div></Row>
                     <Row>
-                        <h1 className="wedding-font-xsm without-stroke lateral-padding"style={{ color: "#5A775E" }}>Su compañia es nuestro regalo más preciado, sin embargo, cualquier muestra de cariño hacia nosotros puede realizarla a través de:</h1>
+                        <h1 className="wedding-font-xsm without-stroke lateral-padding"style={{ color: "#4254AB" }}>Su compañia es nuestro regalo más preciado, sin embargo, cualquier muestra de cariño hacia nosotros puede realizarla a través de:</h1>
                     </Row>
 
                     <Row>
@@ -107,8 +107,8 @@ const InformationComponent = () => {
                                 <div className="col-4"><div className="item-icon-container"><img src={sinpeIcon} alt={""} className="item-icon" /></div></div>
                                 <div className="col-8">
                                     <ul className="item-container">
-                                        <li className="wedding-font-xsm"style={{ color: "#5A775E" }}>8640-8516</li>
-                                        <li className="wedding-font-xsm"style={{ color: "#5A775E" }}>8669-9309</li>
+                                        <li className="wedding-font-xsm"style={{ color: "#4254AB" }}>8640-8516</li>
+                                        <li className="wedding-font-xsm"style={{ color: "#4254AB" }}>8669-9309</li>
                                     </ul>
                                 </div>
                             </Row>
@@ -117,7 +117,7 @@ const InformationComponent = () => {
                         <div className="col-12">
                             <Row className="border-bottom">
                                 <div className="col-4"><div className="item-icon-container"><img src={envelopeIcon} alt={""} className="item-icon" /></div></div>
-                                <div className="col-8"><h1 className="wedding-font-xsm item-container" style={{ textAlign: 'left',color: "#5A775E" }} >Lluvia de sobres(efectivo)</h1></div>
+                                <div className="col-8"><h1 className="wedding-font-xsm item-container" style={{ textAlign: 'left',color: "#4254AB" }} >Lluvia de sobres(efectivo)</h1></div>
                             </Row>
                         </div>
 

@@ -31,7 +31,7 @@
     position: absolute;
     width: 0;
     height: 0;
-    border-left: 200px solid #3e6549;
+    border-left: 200px solid #4254ab;
     border-top: 40vh solid transparent;
     border-bottom: 40vh solid transparent;
     transition: transform 2s ease-in-out;
