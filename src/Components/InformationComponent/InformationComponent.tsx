@@ -89,7 +89,7 @@ const InformationComponent = () => {
                     </Row>
 
                     <Row>
-                        <h1 className="wedding-font-xsm" style={{ color: "red", paddingBottom: "0%" }}>No se permite la anterior paleta de colores dentro de la vestimenta de los invitados.</h1>
+                        <h1 className="wedding-font-xsm" style={{ color: "red", paddingBottom: "0%", fontSize: "1.08rem" }}>No se permite la anterior paleta de colores dentro de la vestimenta de los invitados.</h1>
                         <h1 className="wedding-font-xsm" style={{ color: "red", paddingTop: "0%", fontSize: "90%" }}>Restricción con los colores negro y blanco aplica solo para las mujeres.</h1>
                     </Row>
                 </div>
