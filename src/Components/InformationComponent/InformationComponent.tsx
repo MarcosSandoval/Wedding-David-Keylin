@@ -13,36 +13,94 @@ const InformationComponent = () => {
         <Container fluid className="background-information d-flex flex-column content-container without-overflow">
             <Row>
                 <div className="col-sm-6">
-                    <Row><div className="col-12"><h3 className="wedding-font center-text blue-green without-stroke"style={{ fontSize: "1.6rem",
-                    fontFamily: "'Times New Roman', Times, serif",
-                    fontStyle: "italic",
-                    fontWeight: "normal",           
-                    lineHeight: "1.6"
-                    }}>Codigo de Vestimenta.</h3></div></Row>
-                    <Row><div className="col-12"><div className="dress-code-icon-container"><img src={dressCodeIcon} alt={""} className="dress-code-icon" /></div></div></Row>
+                    <Row>
+                        <div className="col-12">
+                            <h3
+                                className="wedding-font center-text blue-green without-stroke"
+                                style={{
+                                    fontSize: "1.6rem",
+                                    fontFamily: "'Times New Roman', Times, serif",
+                                    fontStyle: "italic",
+                                    fontWeight: "normal",
+                                    lineHeight: "1.6"
+                                }}
+                            >
+                                Codigo de Vestimenta.
+                            </h3>
+                        </div>
+                    </Row>
+
+                    <Row>
+                        <div className="col-12">
+                            <div className="dress-code-icon-container">
+                                <img src={dressCodeIcon} alt={""} className="dress-code-icon" />
+                            </div>
+                        </div>
+                    </Row>
+
                     <Row>
                         <h1 className="wedding-font-xsm blue-green">Para asistir al evento debe portar un código de vestimenta: </h1>
                         <h1 className="wedding-font-sm blue-green bold">Formal</h1>
                     </Row>
+
+                    {/* ✅ PALETA CON NOMBRE DEBAJO */}
                     <Row style={{ paddingTop: "7%", paddingBottom: "7%" }}>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "#1E1E1E" }}></div></div>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "#0f4b63" }}></div></div>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }} ><div className="circle" style={{ backgroundColor: "#D31220" }}></div></div>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "#E2A79B" }}></div></div>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle" style={{ backgroundColor: "#B8C4C3" }}></div></div>
-                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}><div className="circle add-border" style={{ backgroundColor: "#f5f5f5" }}></div></div>
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}>
+                            <div className="color-item">
+                                <div className="circle" style={{ backgroundColor: "#1E1E1E" }}></div>
+                                <span className="color-label">Negro</span>
+                            </div>
+                        </div>
+
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}>
+                            <div className="color-item">
+                                <div className="circle" style={{ backgroundColor: "#0f4b63" }}></div>
+                                <span className="color-label color-blue">Azul</span>
+                            </div>
+                        </div>
+
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}>
+                            <div className="color-item">
+                                <div className="circle" style={{ backgroundColor: "#D31220" }}></div>
+                                <span className="color-label color-red">Rojo</span>
+                            </div>
+                        </div>
+
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}>
+                            <div className="color-item">
+                                <div className="circle" style={{ backgroundColor: "#E2A79B" }}></div>
+                                <span className="color-label color-rose">Oro Rosa</span>
+                            </div>
+                        </div>
+
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}>
+                            <div className="color-item">
+                                <div className="circle" style={{ backgroundColor: "#B8C4C3" }}></div>
+                                <span className="color-label">Plateado</span>
+                            </div>
+                        </div>
+
+                        <div className="col-2" style={{ paddingRight: "2px", paddingLeft: "2px" }}>
+                            <div className="color-item">
+                                <div className="circle add-border" style={{ backgroundColor: "#f5f5f5" }}></div>
+                                <span className="color-label">Blanco</span>
+                            </div>
+                        </div>
                     </Row>
+
                     <Row>
-                        <h1 className="wedding-font-xsm" style={{ color: "red", paddingBottom: "0%"  }}>No se permite la anterior paleta de colores dentro de la vestimenta de los invitados.</h1>
+                        <h1 className="wedding-font-xsm" style={{ color: "red", paddingBottom: "0%" }}>No se permite la anterior paleta de colores dentro de la vestimenta de los invitados.</h1>
                         <h1 className="wedding-font-xsm" style={{ color: "red", paddingTop: "0%", fontSize: "90%" }}>Restricción con los colores negro y blanco aplica solo para las mujeres.</h1>
                     </Row>
                 </div>
+
                 <div className="col-sm-6" style={{ backgroundColor: "rgb(90, 119, 94)" }}>
                     <Row><h1 className="wedding-font center-text without-stroke">Mesa de Regalos</h1></Row>
                     <Row><div className="dress-code-icon-container"><img src={giftIcon} alt={""} className="dress-code-icon" /></div></Row>
                     <Row>
                         <h1 className="wedding-font-xsm without-stroke lateral-padding">Su compañia es nuestro regalo más preciado, sin embargo, cualquier muestra de cariño hacia nosotros puede realizarla a través de:</h1>
                     </Row>
+
                     <Row>
                         <div className="col-12" style={{ paddingRight: "0px" }}>
                             <Row className="border-bottom">
@@ -55,12 +113,14 @@ const InformationComponent = () => {
                                 </div>
                             </Row>
                         </div>
+
                         <div className="col-12">
                             <Row className="border-bottom">
                                 <div className="col-4"><div className="item-icon-container"><img src={envelopeIcon} alt={""} className="item-icon" /></div></div>
                                 <div className="col-8"><h1 className="wedding-font-xsm item-container" style={{ textAlign: 'left' }}>Lluvia de sobres(efectivo)</h1></div>
                             </Row>
                         </div>
+
                         {/* <div className="col-12">
                             <Row>
                                 <div className="col-4"><div className="item-icon-container"><img src={transferIcon} alt={""} className="item-icon" /></div></div>
