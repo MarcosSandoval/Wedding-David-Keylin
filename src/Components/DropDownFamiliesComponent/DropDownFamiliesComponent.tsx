@@ -19,12 +19,12 @@ const DropDownFamiliesComponent = () => {
         setIsVisible(true)
     };
     return (
-        <Container fluid className="d-flex flex-column" style={{ backgroundColor: "rgb(90, 119, 94)" }}>
+        <Container fluid className="d-flex flex-column" style={{ backgroundColor: "rgb(226, 167, 155)" }}>
             <Row>
-                <Col><h1 className="wedding-font center-text">Lista de invitados</h1></Col>
+                <Col><h1 className="wedding-font center-text" style={{ color: "#5A775E" }}>Lista de invitados</h1></Col>
             </Row>
             <Row>
-                <Col><h3 className="wedding-font-xsm center-text">Su compañía hace de este día algo aún más especial. A continuación, encontrará el detalle de las personas invitadas</h3></Col>
+                <Col><h3 className="wedding-font-xsm center-text" style={{ color: "#5A775E" }}>Su compañía hace de este día algo aún más especial. A continuación, encontrará el detalle de las personas invitadas</h3></Col>
             </Row>
             <Row>
                 <Col>

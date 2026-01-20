@@ -24,9 +24,9 @@ const PlacesComponent = () => {
                     <Row><div className="d-flex justify-content-center"> 
                         <Button 
                             size="lg"  
-                            style={{backgroundColor: "rgb(90, 119, 94)", borderColor: "rgb(90, 119, 94)"}} 
-                            className="wedding-font-xsm location-button d-flex justify-content-center" 
-                            onClick={() => {handleOpenMaps("https://maps.app.goo.gl/QvXBUSfxcDN3Pgn6A")}}>
+                            style={{backgroundColor: "rgb(226, 167, 155)", borderColor: "rgb(226, 167, 155)", color: "#5A775E"}} 
+                            className="wedding-font-xsm location-button d-flex justify-content-center style" 
+                            onClick={() => {handleOpenMaps("https://maps.app.goo.gl/QvXBUSfxcDN3Pgn6A" )}}>
                             Ver Ubicación
                         </Button>
                     </div></Row>
@@ -39,7 +39,7 @@ const PlacesComponent = () => {
                 <Row><h1 className="wedding-font-xsm blue-green">Lugar: Sala de Eventos Nila, Caballo Blanco</h1></Row>
                 <Row><div className="d-flex justify-content-center">
                         <Button 
-                            style={{backgroundColor: "rgb(90, 119, 94)", borderColor: "rgb(90, 119, 94)"}} 
+                            style={{backgroundColor: "rgb(226, 167, 155)", borderColor: "rgb(226, 167, 155)", color: "#5A775E"}} 
                             size="lg" 
                             className="wedding-font-xsm location-button center-items" 
                             onClick={() => {handleOpenMaps("https://maps.app.goo.gl/nh91BCt6nw9FkwDE6")}}>
