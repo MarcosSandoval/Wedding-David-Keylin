@@ -3,7 +3,7 @@ import "./GalleryComponent.css";
 import "../../Sources/CommonStyleSheet.css"
 import { useState } from "react";
 import Picture1 from "../../asseets/AlexisKey.jpg";
-import Picture2 from "../../asseets/Picture2.JPG";
+import Picture2 from "../../asseets/Picture12.JPG";
 import Picture3 from "../../asseets/Picture3.JPG";
 import Picture4 from "../../asseets/Picture4.JPG";
 import Picture5 from "../../asseets/Picture5.JPG";
