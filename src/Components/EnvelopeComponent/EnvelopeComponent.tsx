@@ -2,7 +2,7 @@ import React, { useRef, useState } from 'react';
 import './EnvelopeComponent.css';
 import { Container } from 'react-bootstrap';
 import musicFile from "../../asseets/JesúsAdriánRomero-MiVidaSinTi.mp3";
-import tapMe from "../../asseets/logo2.gif"
+import tapMe from "../../asseets/logo.gif"
 import logo from "../../asseets/LogoAK2.png"
 
 const EnvelopeComponent: React.FC = () => {
