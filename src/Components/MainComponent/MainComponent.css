@@ -20,3 +20,145 @@
     }
 }
 
+/* InformationComponent.css */
+/*Paleta de Colores*/
+
+/* ================================
+   Paleta de colores – Vestimenta
+   ================================ */
+
+/* Contenedor de cada color */
+.color-item{
+  display: flex;
+  flex-direction: column;
+  align-items: center;   /* centra círculo */
+  text-align: center;    /* centra texto */
+  width: 100%;
+}
+
+/* Asegura que el col de bootstrap centre su contenido */
+.col-2{
+  display: flex;
+  justify-content: center;
+}
+
+/* ================================
+   Círculos elegantes
+   ================================ */
+
+.circle{
+  width: 40px;
+  height: 40px;
+  min-width: 40px;
+  min-height: 40px;
+
+  border-radius: 50%;
+  aspect-ratio: 1 / 1;   /* 🔑 clave: fuerza proporción perfecta */
+
+  display: block;
+
+  /* sombra más pareja (evita efecto ovalado) */
+  box-shadow:
+    inset 0 1px 2px rgba(255,255,255,0.35),
+    inset 0 -1px 2px rgba(0,0,0,0.15),
+    0 3px 6px rgba(0,0,0,0.25);
+}
+
+
+/* Blanco elegante */
+.add-border{
+  border: 1px solid rgba(0,0,0,0.35);
+  background: linear-gradient(
+    145deg,
+    #ffffff,
+    #eaeaea
+  );
+}
+
+/* ================================
+   Gradientes por color
+   ================================ */
+
+/* Negro */
+.circle[style*="#1E1E1E"]{
+  background: linear-gradient(
+    145deg,
+    #2a2a2a,
+    #0f0f0f
+  );
+}
+
+/* Azul */
+.circle[style*="#0f4b63"]{
+  background: linear-gradient(
+    145deg,
+    #15607e,
+    #0b3b4e
+  );
+}
+
+/* Rojo */
+.circle[style*="#D31220"]{
+  background: linear-gradient(
+    145deg,
+    #e32a37,
+    #b10f1a
+  );
+}
+
+/* Oro Rosa */
+.circle[style*="#E2A79B"]{
+  background: linear-gradient(
+    145deg,
+    #f1c2b7,
+    #d99588
+  );
+}
+
+/* Plateado */
+.circle[style*="#B8C4C3"]{
+  background: linear-gradient(
+    145deg,
+    #d6dddd,
+    #aeb8b7
+  );
+}
+
+/* ================================
+   Texto debajo del círculo
+   ================================ */
+
+.color-label{
+  margin-top: 6px;
+  display: block;
+  width: 100%;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 0.9rem;
+  line-height: 1.1;
+  font-weight: 500;
+}
+
+/* Colores del texto (opcional) */
+.color-blue{ color: #0f4b63; }
+.color-red{ color: #D31220; }
+.color-rose{ color: #E2A79B; }
+
+/* ================================
+   Ajustes para celular
+   ================================ */
+
+@media (max-width: 576px){
+  .circle{
+    width: 36px;
+    height: 36px;
+    min-width: 36px;
+    min-height: 36px;
+  }
+
+  .color-label{
+    font-size: 0.78rem;
+  }
+}
+
+
