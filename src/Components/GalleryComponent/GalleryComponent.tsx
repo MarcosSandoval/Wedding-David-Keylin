@@ -2,7 +2,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import "./GalleryComponent.css";
 import "../../Sources/CommonStyleSheet.css"
 import { useState } from "react";
-import Picture1 from "../../asseets/AlexisKey.jpg";
+import Picture1 from "../../asseets/Alexis.jpeg";
 import Picture2 from "../../asseets/Picture1.jpeg";
 import Picture3 from "../../asseets/Picture2.jpeg";
 import Picture4 from "../../asseets/Picture3.jpeg";
@@ -12,7 +12,9 @@ import Picture7 from "../../asseets/Picture6.jpeg";
 import Picture8 from "../../asseets/Picture7.jpeg";
 import Picture9 from "../../asseets/Picture8.jpeg";
 import Picture10 from "../../asseets/Picture9.jpeg";
-import Picture11 from "../../asseets/Picture10.jpeg";
+import Picture11 from "../../asseets/Picture10.jpg";
+import Picture12 from "../../asseets/Picture11.jpeg";
+    
 
 const GalleryComponent = () => {
     const [displayedImage, setDisplayedImage] = useState(Picture1)
@@ -28,7 +30,10 @@ const GalleryComponent = () => {
         { src: Picture9, alt: 'Image 9' },
         { src: Picture10, alt: 'Image 10' },
         { src: Picture11, alt: 'Image 11' },
-       
+        { src: Picture12, alt: 'Image 12' },
+
+        
+        
     ];
 
     return (
