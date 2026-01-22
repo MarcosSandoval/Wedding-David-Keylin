@@ -94,7 +94,7 @@ const InformationComponent = () => {
                     </Row>
                 </div>
 
-                <div className="col-sm-6" style={{ backgroundColor: "rgb(226, 167, 155)" }}>
+                <div className="col-sm-6" style={{ backgroundColor: "rgb(226, 218, 200, 1)" }}>
                     <Row><h1 className="wedding-font center-text without-stroke" style={{ color: "#4254AB" }}>Mesa de Regalos</h1></Row>
                     <Row><div className="dress-code-icon-container"><img src={giftIcon} alt={""} className="dress-code-icon" /></div></Row>
                     <Row>
