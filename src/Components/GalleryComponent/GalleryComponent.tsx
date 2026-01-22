@@ -12,9 +12,9 @@ import Picture7 from "../../asseets/Picture6.jpeg";
 import Picture8 from "../../asseets/Picture7.jpeg";
 import Picture9 from "../../asseets/Picture8.jpeg";
 import Picture10 from "../../asseets/Picture9.jpeg";
-import Picture11 from "../../asseets/Picture10.jpg";
+import Picture11 from "../../asseets/Picture10.jpeg";
 import Picture12 from "../../asseets/Picture11.jpeg";
-    
+   
 
 const GalleryComponent = () => {
     const [displayedImage, setDisplayedImage] = useState(Picture1)
