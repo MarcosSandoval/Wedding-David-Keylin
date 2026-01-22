@@ -18,7 +18,7 @@ const InformationComponent = () => {
                             <h3
                                 className="wedding-font center-text blue-green without-stroke"
                                 style={{
-                                    fontSize: "1.6rem",
+                                    fontSize: "2.8rem",
                                     fontFamily: "'Times New Roman', Times, serif",
                                     fontStyle: "italic",
                                     fontWeight: "normal",
