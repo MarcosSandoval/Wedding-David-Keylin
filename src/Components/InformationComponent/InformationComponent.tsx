@@ -22,10 +22,10 @@ const InformationComponent = () => {
                                     fontFamily: "'Times New Roman', Times, serif",
                                     fontStyle: "italic",
                                     fontWeight: "normal",
-                                    lineHeight: "1.6"
+                                    lineHeight: "1.0"
                                 }}
                             >
-                                Codigo de Vestimenta.
+                                Codigo de Vestimenta
                             </h3>
                         </div>
                     </Row>
