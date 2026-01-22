@@ -29,8 +29,8 @@
     "Alexander Carmona Valdelomar",
     "Elizeth Tencio Godínez",
     "María Ester Alvarado Godínez",
-    "Luis Adrián Alvarado Godínez",
-    "Orlando Valverde"
+    "Luis Adrián Alvarado Godínez"
+    
   ],
   "Familia Godínez Badilla": [
     "Wilberth Godínez Picado",
@@ -46,15 +46,19 @@
   "Familia Fonseca Tencio": [
     "Mayela Tencio Fernández",
     "Ligia Fonseca Tencio",
-    "Maripaz Fonseca Tencio",
-    "Cinthya Fonseca Tencio",
-    "Gerardo Somo"
+    "Maripaz Fonseca Tencio"
+    
   ],
   "Familia Calvo Redondo": [
     "Jorge Calvo Chacón",
     "Rosalía Redondo Quirós",
     "Jorge Calvo Redondo",
     "Karla Barrantes Gómez"
+  ],
+    "Familia Tencio Rodriguez": [
+    "Oldemar Tencio Fernández",
+		"Olga Rodriguez Picado"
+
   ],
   "Familia Godínez Chacón": [
     "Víctor Julio Godínez Picado",
@@ -129,12 +133,7 @@
   "Lorena Tencio Fernández": [
     "Lorena Tencio Fernández"
   ],
-  "Dunnia Zuñiga Valverde": [
-    "Dunnia Zuñiga Valverde"
-  ],
-  "Milagro Redondo Calderón": [
-    "Milagro Redondo Calderón"
-  ],
+
   "Linneth Salas Obando": [
     "Linneth Salas Obando"
   ],
@@ -170,6 +169,10 @@
   ],
   "Didi Ruiz": [
     "Didi Ruiz"
+  ],
+  "Olger Tencio Navarro": [
+    "Olger Tencio Navarro",
+    "Victor Tencio Fernández"
   ]
 }
 

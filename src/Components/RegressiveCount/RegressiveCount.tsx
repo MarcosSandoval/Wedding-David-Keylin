@@ -24,7 +24,7 @@ const RegressiveCount = () => {
             setNumberSecs(60 - moment().seconds())
         }, 1000);
         
- 
+    
         //Clearing the interval
         return () => clearInterval(interval);
     }, [numberDays]);
