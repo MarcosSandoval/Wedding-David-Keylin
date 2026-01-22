@@ -45,7 +45,7 @@ const DropDownFamiliesComponent = () => {
             {((isVisible) && (
                 <Row style={{ paddingBottom: "50px" }}>
                     <div className="background-image-paper" style={{ paddingLeft: "5%", paddingRight: "5%" }}>
-                        <h3 className="wedding-font-xsm center-text blue-green col-sm-12" style={{ paddingTop: "50px",fontSize:"19px" }}>Hola {familyName} hemos reservado "{guestNumber}" espacio(s) asignados a:</h3>
+                        <h3 className="wedding-font-xsm center-text blue-green col-sm-12" style={{ paddingTop: "50px",fontSize:"20px" }}>Hola {familyName} hemos reservado "{guestNumber}" espacio(s) asignados a:</h3>
                         <ul className="guest-list">
                             {guestList.map((name, index) => (
                                 <li key={index} className="wedding-font-xsm center-text blue-green col-sm-12" style={{paddingRight: "6%",fontSize:"18px"}}>{name}</li>
