@@ -15,14 +15,14 @@ const ConfirmAssistanceComponent = () => {
                     <Col><h3 className="wedding-font-xsm center-text lateral-padding blue-green">Si desean acompañarnos, agradecemos confirmar su asistencia antes del “28 de febrero”</h3></Col>
                 </Row>
                 <Row>
-                    <Col><h1 className="wedding-font-sm center-text lateral-padding blue-green">7192-6110</h1></Col>
+                    <Col><h1 className="wedding-font-sm center-text lateral-padding blue-green">8640-8516</h1></Col>
                 </Row>
                 <Row>
                     <Col><h1 className="wedding-font-xsm center-text lateral-padding blue-green">o envie un mensaje por Whatsapp haciendo click en el siguiente ícono</h1></Col>
                 </Row>
                 <Row className="align-items-center justify-content-center text-center mx-auto">
                     <Col>
-                    <a href="https://wa.me/71926110?text=Hola,%20confirmo%20mi%20asistencia%20a%20la%20boda%20de%20Alexis%20y%20Keilyn.%20Atentamente:%20Por%20favor%20escriba%20su%20nombre%20o%20Familia%20y%20los%20invitados%20a%20asistir:" target="_blank">
+                    <a href="https://wa.me/86408516?text=Hola,%20confirmo%20mi%20asistencia%20a%20la%20boda%20de%20Alexis%20y%20Keilyn.%20Atentamente:%20Por%20favor%20escriba%20su%20nombre%20o%20Familia%20y%20los%20invitados%20a%20asistir:" target="_blank">
                         <img src={whatsapp} alt="icon" className="whatsapp-icon" style={{marginTop: "2%"}}/>
                     </a>
                     </Col>
